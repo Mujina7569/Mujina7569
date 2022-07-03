@@ -4,8 +4,7 @@
 - 👀 I’m interested in <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
 - 🌱 I’m currently learning <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
 - 💬 Ask me about **anime, game, music**
-- 📫 How to reach me <a href="#"><img alt="Discord" src ="https://img.shields.io/badge/Discord-UncertD%232784-5865F2?logo=discord&style=flat"></a> <a href="#"><img alt="Steam" src ="https://img.shields.io/badge/Steam-1D2D35?style=flate&logo=Steam&logoColor=white"></a>
-
+- 📫 How to reach me TBA
 ## 🛠️ Languages and Tools
 <p align="left"> 
    <strong>Programming languages</strong>  
