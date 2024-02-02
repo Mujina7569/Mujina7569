@@ -10,10 +10,11 @@
 - 🌱 I’m currently learning 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&link=https%3A%2F%2Freact.dev%2F)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white&link=https%3A%2F%2Fchakra-ui.com%2F)
+
 - 💬 Ask me about 
 ![Carrd](https://img.shields.io/badge/Carrd-596CAF?style=flat&logo=carrd&logoColor=white&link=https%3A%2F%2Fcarrd.co%2F)
 
-- 📫 How to reach me 
+- 📫 How to reach me  
   - ![E-mail](https://img.shields.io/badge/E--mail-mujina7569%40gmail.com-EA4335?style=social&logo=gmail&logoColor=EA4335&link=mailto%3Amujina7569%40gmail.com)
   - ![X](https://img.shields.io/badge/Twitter%20(X)-%40mujina7569-black?style=social&logo=x&logoColor=black&link=https%3A%2F%2Ftwitter.com%2Fmujina7569%2F)
   - ![Blue Sky](https://img.shields.io/badge/Blue%20Sky-%40mujina7569.bsky.social-0285FF?style=social&logo=bluesky&logoColor=0285FF&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fmujina7569.bsky.social%2F)
